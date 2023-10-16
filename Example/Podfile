@@ -2,14 +2,5 @@ platform :ios, '13.0'
 
 target 'YamnetVad_Example' do
   pod 'YamnetVad', :path => '../'
-  
-end
 
-target 'YamnetVad_Example' do
-  pod 'JQYamnet', :path => '../'
-  pod 'TensorFlowLiteTaskAudio', '0.4.3'
-  pod 'SVGAPlayer', '2.5.7'
-  pod 'Protobuf', '3.21.12'
-  pod 'SSZipArchive', :git => 'http://gitlab.diffusenetwork.com/ios/JQZipArchive.git', :tag => '2.4.3'
-  
 end
