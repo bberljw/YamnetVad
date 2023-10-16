@@ -2,5 +2,5 @@ platform :ios, '13.0'
 
 target 'YamnetVad_Example' do
   pod 'YamnetVad', :path => '../'
-
+  pod 'TXCopyrightedMedia', '3.5.0'
 end
