@@ -1,0 +1,6 @@
+module Pods_YamnetVad_Example {
+  umbrella header "Pods-YamnetVad_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

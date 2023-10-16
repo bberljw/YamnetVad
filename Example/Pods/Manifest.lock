@@ -1,0 +1,23 @@
+PODS:
+  - TensorFlowLiteTaskAudio (0.4.3)
+  - YamnetVad (0.1.0):
+    - TensorFlowLiteTaskAudio (~> 0.4.3)
+
+DEPENDENCIES:
+  - YamnetVad (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - TensorFlowLiteTaskAudio
+
+EXTERNAL SOURCES:
+  YamnetVad:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TensorFlowLiteTaskAudio: c712928d24d194fc6a461d7894aff29392eb0872
+  YamnetVad: 90e24036c41dbba8d81ba9534b7b8e0ae7467a92
+
+PODFILE CHECKSUM: 604f15c6641268ef24de17081f4f5f4a810ec9aa
+
+COCOAPODS: 1.12.1

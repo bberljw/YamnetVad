@@ -1,0 +1,6 @@
+module YamnetVad {
+  umbrella header "YamnetVad-umbrella.h"
+
+  export *
+  module * { export * }
+}
